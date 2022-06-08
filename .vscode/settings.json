@@ -4,7 +4,6 @@
     "explorer.fileNesting.patterns": {
         ".gitignore": ".gitattributes, .gitmodules, .gitmessage, .mailmap, .git-blame*",
         "Cargo.toml": "Cargo.lock, Cargo.toml, .editorconfig",
-        "Dockerfile": "Dockerfile, .dockerignore, docker-compose.yml",
         "readme.*": "authors, backers.md, changelog*, citation*, code_of_conduct.md, codeowners, contributing.md, contributors, copying, credits, governance.md, history.md, license*, maintainers, readme*, security.md, sponsors.md",
     }
 }
