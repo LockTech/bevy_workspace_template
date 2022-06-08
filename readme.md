@@ -40,3 +40,7 @@ You're all set!
 - [Bevy Engine](https://bevyengine.org/)
 - [(Unofficial) Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [crates.io](https://crates.io/)
+
+## License
+
+This project itself is provided under the [Unlicense](https://unlicense.org/) - use it however you see fit.
