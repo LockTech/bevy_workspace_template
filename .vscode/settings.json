@@ -3,7 +3,7 @@
     "explorer.fileNesting.expand": false,
     "explorer.fileNesting.patterns": {
         ".gitignore": ".gitattributes, .gitmodules, .gitmessage, .mailmap, .git-blame*",
-        "Cargo.toml": "Cargo.lock, Cargo.toml, .editorconfig",
+        "Cargo.toml": "book.toml, Cargo.lock, Cargo.toml, .editorconfig",
         "readme.*": "authors, backers.md, changelog*, citation*, code_of_conduct.md, codeowners, contributing.md, contributors, copying, credits, governance.md, history.md, license*, maintainers, readme*, security.md, sponsors.md",
     }
 }

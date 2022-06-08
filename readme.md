@@ -12,11 +12,17 @@ Click the green, "Use this template" button to create your own repository based 
 
 Then you may `git clone ...` the repository - continuing with installation steps.
 
-### 2) Configure `Cargo.toml`
+### 2) Configure the poject
+
+#### `Cargo.toml`
 
 Update the [`[package]` section](https://doc.rust-lang.org/cargo/reference/manifest.html#the-package-section), specifying your: project's name, authors, and repository.
 
 The [`[workspace]` section](https://doc.rust-lang.org/cargo/reference/workspaces.html) will allow you to define [the packages](https://doc.rust-lang.org/cargo/reference/workspaces.html#package-selection) which your project is comprised of - letting you share dependencies between them.
+
+#### `book.toml`
+
+Configure how the project makes use of [mdBook](https://rust-lang.github.io/mdBook/index.html), specifying your: project's name, description, and the author.
 
 ### 3) Setup licenses
 
