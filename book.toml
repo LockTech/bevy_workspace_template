@@ -2,7 +2,8 @@
 title = "..."
 description = ""
 author = "..."
-
+language = "en"
 src = "docs"
 
-language = "en"
+[build]
+build-dir = "target/book"
