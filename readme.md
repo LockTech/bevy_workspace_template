@@ -46,6 +46,7 @@ You're all set!
 - [Bevy Engine](https://bevyengine.org/)
 - [(Unofficial) Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [crates.io](https://crates.io/)
+- [mdBook](https://rust-lang.github.io/mdBook/)
 
 ## License
 
