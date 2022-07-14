@@ -47,6 +47,7 @@ You're all set!
 - [Bevy Engine](https://bevyengine.org/)
     - [(Unofficial) Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [Hygen code generator](http://www.hygen.io/)
+- [mdBook](https://rust-lang.github.io/mdBook/)
 
 ## License
 
