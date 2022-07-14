@@ -43,9 +43,10 @@ You're all set!
 ## Resources
 
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
+    - [crates.io](https://crates.io/)
 - [Bevy Engine](https://bevyengine.org/)
-- [(Unofficial) Bevy Cheat Book](https://bevy-cheatbook.github.io/)
-- [crates.io](https://crates.io/)
+    - [(Unofficial) Bevy Cheat Book](https://bevy-cheatbook.github.io/)
+- [Hygen code generator](http://www.hygen.io/)
 
 ## License
 
